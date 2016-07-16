@@ -1,0 +1,36 @@
+#holder, #streak, #turnsLeft, #guessed {
+	font-family: 'Poiret One', cursive;
+	padding: 10px 30px;
+}
+#holder {
+	letter-spacing: 5px;
+	padding-left: 40px;
+	align-self: center;
+	margin: 0 40px;
+	
+}
+
+#streak {
+	float: left;
+}
+#guessed {
+	margin: 0px 20px;
+	border-bottom: solid 1px;
+}
+
+h1{
+	font-family: 'Poiret One', cursive;
+	font-size: 40px;
+	text-decoration: underline;
+	padding: 20px 20px 10px 20px;
+}
+h2{
+	font-family: 'Poiret One', cursive;
+	font-size: 25px;
+	text-decoration: underline;
+	padding-left: 30px;
+
+}
+body { 
+	background-color: lightblue;
+}
